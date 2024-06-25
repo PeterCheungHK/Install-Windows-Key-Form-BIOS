@@ -5,6 +5,9 @@ This repository contains a script to manage Windows licenses. It includes steps 
 由於使用 Ghost/Acronis/Clonezilla 恢復備份映像，產品序號識別可能不正確導致在啟動期間彈出視窗中顯示硬體設備已變更。
 此儲存庫包含一個用於管理 Windows 授權的腳本。它包括卸載目前許可證、檢索原始產品金鑰以及使用檢索到的金鑰重新安裝許可證的步驟。
 
+The script only works on brand computers
+腳本只適用於品牌電腦
+
 ## Steps 步驟
 
 ### 1. Uninstall the Current License 卸載目前許可證
